@@ -2,4 +2,4 @@
 tutorial 
 
 
-Learning hoe to commit lol. 
+Learning how to commit, lol. 
